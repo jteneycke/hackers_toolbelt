@@ -1,6 +1,5 @@
+![tool-belt](https://github.com/jteneycke/hackers_toolbelt/blob/master/toolbelt.jpg)
 # HackersToolbelt
-
-
 ```
 For want of a nail the shoe was lost.
 For want of a shoe the horse was lost.
@@ -10,7 +9,6 @@ For want of a message the battle was lost.
 For want of a battle the kingdom was lost.
 And all for the want of a horseshoe nail.
 ```
-
 
 ## Installation
 
